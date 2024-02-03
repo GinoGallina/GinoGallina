@@ -24,6 +24,11 @@ Bienvenido/a a mi perfil de GitHub, soy Gino Gallina
 
 ![Repos](https://img.shields.io/github/repos/GinoGallina?label=Repos&style=social)
 ![Contribuciones](https://img.shields.io/github/commit-activity/y/GinoGallina/TP-Entornos-graficos?label=Contribuciones&style=social)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GinoGallina&layout=compact)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GinoGallina&show_icons=true&count_private=true&hide=prs,issues,contribs)
+
+
   
 
 ## Contacto
