@@ -19,7 +19,12 @@ Bienvenido/a a mi perfil de GitHub, soy Gino Gallina
 - 💻 Desarrollo frontend con React y Angular
 - 🚀 Desarrollo backend con Node.js, Express, Spring y Laravel
 - ⚙️ Conocimientos en tecnologías web y APIs
-- 
+
+- ## Estadísticas
+
+![Repos](https://img.shields.io/github/repos/GinoGallina?label=Repos&style=social)
+![Contribuciones](https://img.shields.io/github/commit-activity/y/GinoGallina/TP-Entornos-graficos?label=Contribuciones&style=social)
+  
 
 ## Contacto
 ¡Conéctate conmigo en las redes sociales!
@@ -28,6 +33,5 @@ Bienvenido/a a mi perfil de GitHub, soy Gino Gallina
 
 - ✉️ [Envíame un correo electrónico](mailto:tuemail@gmail.com)
 
-¡No dudes en explorar mis repositorios y don't forget to ⭐️ your favorites!
 
 ¡Gracias por visitar mi perfil!
