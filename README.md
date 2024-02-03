@@ -22,8 +22,8 @@ Bienvenido/a a mi perfil de GitHub, soy Gino Gallina
 
 - ## Estadísticas
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GinoGallina&layout=compact)
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GinoGallina&show_icons=true&count_private=true&hide=prs,issues,contribs)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GinoGallina&layout=compact&theme=dark)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GinoGallina&show_icons=true&count_private=true&theme=dark)
 
 
   
