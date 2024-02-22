@@ -9,7 +9,7 @@
 
 - 🎓 Estudiante de 5to año de la carrera Ingenierá en Sistemas
 - 🌱 Actualmente estoy aprendiendo y trabajando en proyectos que involucran las siguientes tecnologías:
-  - React  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  - React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   - Node.js  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="react logo"  />
   - Express  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25" alt="react logo"  />
   - Angular  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="25" alt="react logo"  />
@@ -40,7 +40,8 @@
 <h3 align='left'>Contácto</h3>
 ¡Conéctate conmigo en las redes sociales!
 
-- [LinkedIn](https://www.linkedin.com/in/gino-gallina-255296256/)
+- [LinkedIn](https://www.linkedin.com/in/gino-gallina-255296256/)<p>  </p> <a href="https://www.linkedin.com/in/gino-gallina-255296256/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="gmail logo"  /></a> 
+
 
 - [Envíame un correo electrónico](mailto:ginogallina2002@gmail.com) <p>  </p> <a href="mailto:ginogallina2002@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="gmail logo"  /></a> 
 
