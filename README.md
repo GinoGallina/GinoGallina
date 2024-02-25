@@ -42,7 +42,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/gino-gallina-255296256/)<p>  </p> <a href="https://www.linkedin.com/in/gino-gallina-255296256/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="gmail logo"  /></a> 
 
-
 - [Envíame un correo electrónico](mailto:ginogallina2002@gmail.com) <p>  </p> <a href="mailto:ginogallina2002@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="gmail logo"  /></a> 
 
 <h4 align='center'>¡Gracias por visitar mi perfil!</h4>
